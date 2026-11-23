@@ -30,5 +30,8 @@ The system is being developed step by step using C++ and Object-Oriented Program
 ## 🚀 Development Approach
 
 Building the software prototype first, with future plans to explore database integration, GUI development, and hardware integration.
+## Project Status
+
+In Progress — Product management module implemented; additional checkout features planned.
 
 *This project is actively under development.*
